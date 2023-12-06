@@ -1,0 +1,1974 @@
+/* Screen Size 1300 */
+
+@media screen and (max-width: 1300px) {
+    .phone p:first-child, .message p:first-child {
+        font-size: 13px;
+
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 60px;
+    }
+
+    .sec4_right h1 {
+        font-size: 48px;
+    }
+
+    .sec2_btn button {
+        width: 210px;
+        height: 66px;
+    }
+
+    .s2_before {
+
+        top: 53%;
+        left: 205px;
+    }
+
+    .section4 {
+        min-height: 515px;
+    }
+
+    .s_btn button {
+        width: 200px;
+        height: 65px;
+
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        position: absolute;
+        top: 93%;
+        left: 870px;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        position: absolute;
+        top: 93%;
+        left: 930px;
+    }
+
+}
+
+/* 1200px */
+@media screen and (max-width: 1200px) {
+    .phone p:first-child, .message p:first-child {
+        font-size: 13px;
+    }
+    .s4_before {
+        top: 50%;
+        left: 46%;
+    }
+
+    .left_text h1 {
+        font-size: 37px;
+    }
+
+    .nav li a {
+        margin: 0 5px;
+        font-size: 15px;
+    }
+
+    .phone, .message {
+
+        margin: 0 3px;
+    }
+
+    .phone p, .message p {
+        font-size: 12px;
+        margin: 0px 4px;
+        font-weight: bold;
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 56px;
+        width: 75%;
+    }
+
+    .sec4_right h1 {
+        font-size: 51px;
+    }
+
+    text p {
+        font-size: 15px;
+    }
+
+    .sec4_right h1 {
+        font-size: 48px;
+    }
+
+    .homeBanner .slide_icon {
+        width: 55px;
+        height: 55px;
+    }
+
+    .sec2_p p {
+        width: 95%;
+        margin: 10px 0 30px 0;
+    }
+
+    .sec2_div2 {
+        background: url(../webImage/asd.png) no-repeat;
+        background-size: contain;
+        margin: 0 5px;
+    }
+
+    .sec2_div2 h6 {
+        width: 70%;
+    }
+
+    .singleBanner {
+        min-height: 700px;
+    }
+
+    .sec3L_left p {
+        font-size: 14px;
+    }
+
+    .sec3_left p {
+        font-family: 15px;
+    }
+
+    .sec2_btn button {
+        width: 200px;
+        height: 63px;
+    }
+
+    .s2_before {
+
+        top: 51%;
+        left: 195px;
+    }
+
+    .fd2_text h1 {
+        font-size: 23px;
+
+    }
+
+    .fd2_text p {
+        font-family: var(--normal-font);
+        font-size: 14px;
+    }
+
+    .f_text1 h1 {
+        font-size: 34px;
+    }
+
+    .icon_text h6 {
+        font-size: 15px;
+    }
+
+    .fd2_text_img {
+        position: absolute;
+        top: 40%;
+        left: 80%;
+    }
+
+    .bg_img p {
+        font-size: 15px;
+        margin: 10px 0;
+    }
+
+    .s7_right_divOne_left h3 {
+        font-size: 22px;
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        position: absolute;
+        top: 85%;
+        left: 660px;
+    }
+
+
+    .s_btn button {
+        width: 180px;
+        height: 60px;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        position: absolute;
+        top: 97%;
+        left: 835px;
+    }
+
+    .sec4_right {
+        min-height: auto;
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        top: 97%;
+        left: 780px;
+        z-index: 99;
+    }
+
+    .s4_before {
+        top: 55%;
+        left: 47%;
+    }
+
+}
+
+/* 1100PX */
+@media screen and (max-width: 1100px) {
+    .s4_before {
+        top: 63%;
+        left: 50%;
+    }
+   
+    .top_header_content p {
+        font-size: 14PX;
+        margin: 0;
+    }
+
+    .top_head_img p {
+        font-size: 14px;
+    }
+
+    .top_head_img {
+        margin: 0;
+    }
+
+    .left_text h1 {
+        font-size: 36px;
+    }
+
+    .phone img, .message img {
+        width: 25px;
+        height: 25px;
+        margin: 0 5px;
+    }
+
+    .nav li a {
+        margin: 0 4px;
+        font-size: 16px;
+    }
+
+    .phone p:first-child, .message p:first-child {
+        font-size: 11px;
+        font-family: var(--normal-font);
+        margin: 0 2px;
+    }
+
+    .phone p:first-child, .message p:first-child {
+        font-size: 13px;
+    }
+
+    .phone p, .message p {
+        font-size: 12px;
+        margin: 0 1px;
+        font-weight: 600;
+    }
+
+    nav li a {
+        margin: 0 3px;
+        font-size: 16px;
+
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 53px;
+        width: 80%;
+    }
+
+    .homeBanner .slick-next.pull-right.slick-arrow {
+        top: 40%;
+        left: 0;
+    }
+
+    .homeBanner .slick-prev.pull-left.slick-arrow {
+        top: 40%;
+        position: absolute;
+        left: 91%;
+    }
+
+    .innerSingleBanner p {
+        font-size: 16px;
+        width: 65%;
+    }
+
+    .singleBanner {
+        min-height: 700px;
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 46px;
+        width: 75%;
+    }
+
+    .sec3R_main p {
+        font-size: 13px;
+
+    }
+
+    .sec3R_main h1 {
+        font-size: 48px;
+    }
+
+
+    .text h6 {
+        font-size: 16px
+    }
+
+    .text a {
+        font-size: 15px;
+    }
+
+    .sec3L_left p {
+        font-size: 13px;
+    }
+
+    .sec3L_left h1 {
+        font-size: 48px;
+    }
+
+    .sec3_left p {
+        font-family: 14px;
+    }
+
+    .sec2_btn button a {
+        font-size: 16px;
+
+    }
+
+    .sec3_left h6 {
+        font-size: 14px;
+    }
+
+    .sec2_btn button {
+        width: 190px;
+        height: 60px;
+    }
+
+    .s2_before {
+
+        top: 50%;
+        left: 185px;
+    }
+
+    .homeBanner .slide_icon {
+        width: 48px;
+        height: 48px;
+    }
+
+    .sec4_right h1 {
+        font-size: 43px;
+    }
+
+    .sec4_right p {
+        font-size: 15px;
+        width: 90%;
+    }
+
+    .s_btn button {
+        width: 185px;
+        height: 60px;
+
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        position: absolute;
+        top: 95%;
+        left: 860px;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        position: absolute;
+        position: absolute;
+        top: 95%;
+        left: 920px;
+
+    }
+
+    .s7_right_main p:first-child, .sec5_left p:first-child {
+        font-size: 36px;
+
+    }
+
+    .s7_right_main h1, .sec5_left h1 {
+        font-size: 38px;
+    }
+
+    .bg_img p {
+        font-size: 14px;
+        margin: 20px 0;
+    }
+
+    .s7_right_divOne_left h3 {
+        font-size: 16px;
+        font-weight: bold;
+        margin: 4px 0;
+    }
+
+    .f_text1 h1 {
+        font-size: 30px;
+    }
+
+    .icon_text p {
+        font-size: 12px;
+    }
+
+    .icon_border {
+        width: 25px;
+        height: 26px;
+    }
+
+    .icon_text h6 {
+        font-size: 15px;
+    }
+
+    .fd2_text h1 {
+        font-size: 22px;
+    }
+
+    .fd2_text p {
+        font-size: 13px;
+        margin: 6px 0;
+    }
+
+    .fd2_text input[type="text"] {
+        width: 220px;
+        height: 60px;
+    }
+
+    .fd2_text_img {
+        position: absolute;
+        top: 32%;
+        left: 75%;
+    }
+
+    .singleBanner {
+        min-height: 650px;
+    }
+
+    /* .section4 {
+        background: url(../webImage/pic3.png) no-repeat;
+        background-size: cover;
+        min-height: 420px;
+
+    } */
+
+    button.slick-prev.pull-left.slick-arrow {
+        position: absolute;
+        position: absolute;
+        top: 95%;
+        left: 860px;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        position: absolute;
+        position: absolute;
+        top: 95%;
+        left: 810px;
+    }
+
+    .sec4_right p {
+        font-size: 15px;
+        margin: 10px 0;
+        width: 80%;
+    }
+
+}
+
+/* 992PX */
+@media screen and (max-width:991px) {
+    .left_text h1 {
+        font-size: 26px;
+    }
+
+    .nav li a {
+        margin: 0 2px;
+        font-size: 12px;
+    }
+
+    .phone p:first-child, .message p:first-child {
+        font-size: 11px;
+        margin: 0 0;
+    }
+
+    .phone p, .message p {
+        font-size: 9px;
+        margin: 0 0;
+        padding: 0 0;
+    }
+
+    .phone img, .message img {
+        width: 18px;
+        height: 18px;
+        margin: 0 2px;
+    }
+
+    .innerSingleBanner h6 {
+        font-size: 15px;
+
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 40px;
+        width: 75%;
+    }
+
+    .homeBanner .slide_icon {
+        width: 42px;
+        height: 42px;
+    }
+
+    .top_header_content p {
+        font-size: 12PX;
+        margin: 0;
+    }
+
+    .top_head_img p {
+        font-size: 12px;
+    }
+
+    .top_head_icon {
+
+        width: 24px;
+        height: 24px;
+
+    }
+
+    .innerSingleBanner p {
+        font-size: 14px;
+        width: 60%;
+    }
+
+    .s_btn button {
+        width: 160px;
+        height: 50px;
+    }
+
+    .s_btn {
+        margin: 5px 0px;
+    }
+
+    .innerSingleBanner {
+        width: 80%;
+    }
+
+    .sec2_p p {
+        font-size: 14px;
+        width: 70%;
+        margin: 10px 0 30px 0;
+    }
+
+    .sec2_p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .sec2_div2 {
+        background: url(../webImage/asd.png) no-repeat;
+        background-size: contain;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .s4_before {
+        top: 45%;
+        left: 38%;
+    }
+
+    .sec2_div2 h6 {
+        font-size: 14px;
+        width: 70%;
+    }
+
+    .text h6 {
+        font-size: 14px;
+    }
+
+    .sec4_right p {
+        font-size: 14px;
+        margin: 10px 0;
+        width: 80%;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        top: 90%;
+        left: 700px;
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        position: absolute;
+        top: 90%;
+        left: 640px;
+        z-index: 99;
+    }
+
+    .sec4_right {
+        min-height: 420px;
+        padding: 50px 10px;
+    }
+
+    .s6_left h1 {
+        font-size: 28px;
+        font-family: var(--normal-font);
+    }
+
+    .f_text1 h1 {
+        font-size: 26px;
+    }
+
+    .icon_border {
+        width: 23px;
+        height: 23px;
+    }
+
+    .icon_border img {
+        width: 85%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .fd2_text h1 {
+        font-size: 16px;
+    }
+
+    .fd2_text p {
+        font-size: 11px;
+        margin: 5px 0;
+    }
+
+    .fd2_text a {
+        font-size: 13px;
+    }
+
+    .fd2_text_img {
+        position: absolute;
+        top: 57%;
+        left: 95%;
+    }
+
+    .fd2_text input[type="text"] {
+        font-size: 13px;
+        width: 205px;
+        height: 57px;
+    }
+
+    .icon_text h6 {
+        font-size: 14px;
+    }
+
+    .footer {
+        min-height: 420px;
+    }
+
+    .fd2_text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .singleBanner {
+        min-height: 650px !important;
+    }
+
+    .sec3_one {
+        width: 100%;
+    }
+
+    .sec3_left {
+        margin: 5px;
+    }
+
+}
+
+/* 880PX */
+@media screen and (max-width:880px) {
+
+    .left_text h1 {
+        font-size: 24px;
+    }
+
+    .phone p:first-child, .message p:first-child {
+        font-size: 11px;
+        margin: 0 0;
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 36px;
+        width: 75%;
+    }
+
+    .innerSingleBanner p {
+        font-size: 13px;
+    }
+
+    .s_btn button {
+        font-size: 18px;
+        width: 160px;
+        height: 50px;
+    }
+
+    .sec2_p p {
+        font-size: 13px;
+        width: 65%;
+        margin: 10px 0 30px 0;
+    }
+
+    .sec2_div2 h6 {
+        font-size: 13px;
+        width: 65%;
+    }
+
+    .homeBanner .slick-prev.pull-left.slick-arrow {
+
+        left: 89%;
+    }
+
+    .sec3R_main p {
+        font-size: 12px;
+    }
+
+    .sec3R_main p {
+        padding: 0 5px;
+        font-size: 11px;
+    }
+
+    .text h6 {
+        font-size: 13px;
+    }
+
+    .text a {
+        font-size: 13px;
+    }
+
+    .sec3R_main h1 {
+        font-size: 42px;
+    }
+
+    .sec3L_left h1 {
+        font-size: 46px;
+    }
+
+    .sec3L_left p {
+        font-size: 12px;
+    }
+
+    .sec3_left h6 {
+        font-size: 13px;
+    }
+
+    .sec2_btn button a {
+        font-size: 14px;
+    }
+
+    .sec3R_main {
+        padding-top: 80px;
+    }
+
+    .text {
+        padding: 8px 4px;
+    }
+
+    .sec4_right p {
+        font-size: 12px;
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        position: absolute;
+        top: 90%;
+        left: 510px;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        top: 90%;
+        left: 565px;
+    }
+
+    .sec5_lef p:first-child, .sec5_left p:first-child {
+        font-size: 32px;
+    }
+
+    .s7_right_main h1, .sec5_left h1 {
+        font-size: 34px;
+    }
+
+    .bg_img p {
+        font-size: 13px;
+        margin: 15px 0;
+    }
+
+    .s7_right_divOne_left h3 {
+        font-size: 15px;
+        font-weight: bold;
+        margin: 4px 0;
+    }
+
+    .s7_right_divOne_right {
+        width: 30%;
+    }
+
+    .sec4_right h1 {
+        font-size: 36px;
+    }
+
+
+    .f_text1 h1 {
+        font-size: 22px;
+    }
+
+    .footer_bg {
+        width: 90%;
+        min-height: 101px;
+        bottom: 88%;
+        left: 7%;
+    }
+
+    .icon_border img {
+        width: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .fd2_text p {
+        font-size: 11px;
+        margin: 0px 0 15px 1px;
+    }
+
+    .fd2_text a {
+        font-size: 11px;
+    }
+
+    .s4_before {
+        top: 45%;
+        left: 42%;
+    }
+
+    .fd2_text input[type="text"] {
+        font-size: 11px;
+        width: 155px;
+        height: 50px;
+    }
+
+    .fd2_text_img {
+        position: absolute;
+        top: 59%;
+        left: 70%;
+
+    }
+
+    .singleBanner {
+        min-height: 550px !important;
+    }
+
+    .col-md-6 .foot_text1 {
+        font-size: 11px;
+    }
+
+    .fd2_text a {
+        font-size: 14px;
+        /* width: 50%; */
+        margin: 10px auto;
+    }
+
+    .fd2_text a img {
+        width: 65%;
+    }
+
+    .top_head_iconf a img {
+        width: 50%;
+        min-height: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .foot_text1 p {
+        font-size: 12px;
+        font-family: var(--normal-font);
+    }
+
+    .foot_text2 p {
+        font-size: 12px;
+    }
+
+    .footer {
+        min-height: 395px;
+    }
+
+    .icon_border {
+        width: 26px;
+        height: 26px;
+    }
+
+    .fd2_text div {
+        display: flex;
+        /* justify-content: space-between;*/
+    }
+}
+
+
+/* 767PX */
+@media screen and (max-width:767px) {
+
+    /* NEw */
+    .sec3R_main {
+        width: 100%;
+        margin: 0 auto;
+        padding: 4px 0;
+    }
+    .sec3L_leff h1,.sec3L_leff p  {
+       text-align: center;
+        width: 70%;
+        margin: 0 auto;
+        margin: 0px 10 0 0;
+    }
+    /* NEw */
+
+    .res_nav {
+        display: block;
+
+    }
+
+    .main_Header {
+        display: none;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url('../webImage/nav_Icon.png') !important;
+        background-repeat: no-repeat;
+        background-size: contain;
+
+
+    }
+
+    nav.navbar_resp.navbar.navbar-expand-lg.navbar-light.bg-light {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: row;
+        align-items: center;
+        color: white;
+        margin: 0;
+        padding: 0;
+    }
+
+    .header_top, .header_bottom {
+        display: none;
+    }
+
+    .nav_icon {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px 0;
+        background: #132131;
+        color: white;
+
+    }
+
+    .nav_left {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .nav_right {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    .nav_right a img {
+        width: 52px;
+        vertical-align: middle;
+        border-style: none;
+        height: 50px;
+        object-fit: contain;
+        filter: brightness(2.5);
+    }
+
+    .navbar-light .navbar-brand {
+        color: rgb(255 245 245 / 90%);
+    }
+
+    .innerSingleBanner h6 {
+        font-size: 13px;
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 32px;
+        width: 80%;
+    }
+
+    .innerSingleBanner p {
+        font-size: 12px;
+        width: 70%;
+        margin: 10px 0 20px 0;
+    }
+
+    .homeBanner .slick-prev.pull-left.slick-arrow {
+        top: 40%;
+        left: 88%;
+    }
+
+    .singleBanner {
+        min-height: 450px !important;
+    }
+
+    .s_btn button {
+        font-size: 16px;
+        width: 160px;
+        height: 50px;
+    }
+
+    .sec2_div2 {
+        margin: 5px 0px;
+        min-height: 210px;
+    }
+
+    .sec2_div2 h6 {
+        font-size: 12px;
+        width: 65%;
+    }
+
+    .sec3_one {
+        width: 90%;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .sec3_left {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-size: cover;
+        margin: 5px auto;
+        min-height: 180px;
+    }
+
+    .sec2_btn {
+        margin: 0 auto;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .sec3L_left {
+        width: 100%;
+        padding: 0;
+    }
+
+    .sec3R_main h1,
+    .sec3L_left h1 {
+        display: flex;
+        font-size: 42px;
+        justify-content: center;
+    }
+
+    .sec2_p p {
+        width: 90%;
+    }
+
+    .s2_before {
+        top: 50%;
+        left: 61%;
+    }
+
+    .sec3L_left p {
+        width: 65%;
+        margin: 10px auto;
+    }
+
+    .sec3R_main p {
+        width: 70%;
+        text-align: center;
+        font-size: 12px;
+        margin: 0 auto;
+    }
+
+    .text a {
+        font-size: 12px;
+    }
+
+    .sec4_main {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .sec4_right {
+        min-height: 250px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .sec4_right h1 {
+        width: 50%;
+        font-size: 32px;
+        margin: 0 auto;
+    }
+
+    .sec4_right p {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .s_btn {
+        display: flex;
+        margin: 15px 0px;
+        justify-content: center;
+        align-items: center;
+    }
+    .homeBanner .s_btn {
+        display: flex;
+        margin: 15px 0px;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .s4_before {
+        top: 40%;
+        left: 58%;
+    }
+
+    .s7_right_main {
+        display: flex;
+        margin: 20px 0;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .s6_left h1 {
+        font-size: 20px;
+        font-family: var(--normal-font);
+        font-weight: bold;
+    }
+
+    .section6 {
+        min-height: 150px;
+    }
+
+    .footer_bg {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        bottom: 69%;
+        left: 0%;
+        min-height: 130px;
+    }
+
+    .footer_div2 {
+        flex-wrap: wrap;
+        display: flex;
+
+    }
+
+    .footer {
+        min-height: 490px;
+        position: relative;
+    }
+
+    .footer_bg {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        bottom: 82%;
+        left: 0%;
+        padding: 0 20px;
+        min-height: 110px;
+    }
+
+    .fd2_text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 30px 0 0px -1px;
+    }
+
+    .top_head_iconf a img {
+        width: 30%;
+    }
+
+    .fd2_text a img {
+        width: 25%;
+    }
+
+    .fd2_text_img {
+        position: absolute;
+        top: 66%;
+        left: 33%;
+    }
+
+    .top_head_iconf a img {
+        width: 30%;
+    }
+
+    .foot_text2 p {
+        margin: 0 auto;
+        font-size: 11px;
+    }
+
+    .foot_text2 {
+        width: 100%;
+    }
+
+    .foot_text1 p {
+        font-size: 11px;
+    }
+
+    .fd2_text p {
+        font-size: 11px;
+        margin: 0px 0 5px 1px;
+    }
+
+    .fd2_text a {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .fd2_text a {
+        width: 90%;
+        display: flex;
+        margin: 5px auto;
+    }
+
+    .fd2_text a img {
+        width: 15%;
+    }
+
+    .fd2_text_img {
+        position: absolute;
+        top: 59%;
+        left: 50%;
+
+    }
+
+    .top_head_iconf a img {
+        width: 40%;
+    }
+
+
+    .fd2_text_img a img {
+        width: 50%;
+    }
+
+    .fd2_text {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        margin: 5px 0 15px 0px;
+    }
+
+    .fd2_text div {
+        display: flex;
+        flex-direction: row;
+        /* width: 55%; */
+    }
+
+}
+
+/* 680PX */
+@media screen and (max-width:680px) {
+
+    /* New */
+    .sec3R_main {
+        width: 100% !important;
+        margin: 0 auto;
+        padding: 10px 0;
+    }
+
+    .sec3_right {
+        width: 48%;
+        margin: 8px auto;
+    }
+
+    .homeBanner .slick-prev.pull-left.slick-arrow {
+        top: 40%;
+        left: 86%;
+    }
+
+    /* New */
+
+    .innerSingleBanner h1 {
+        font-size: 26px;
+        width: 80%;
+    }
+
+    .innerSingleBanner {
+        width: 70%;
+        display: flex;
+        margin: 0 auto;
+        align-items: flex-start;
+    }
+
+    .innerSingleBanner h6 {
+        font-size: 14px;
+        width: 70%;
+        line-height: 20px;
+        margin: 4px 0;
+    }
+
+    .innerSingleBanner p {
+        font-size: 14px;
+        width: 85%;
+        margin: 5px 0;
+    }
+
+    .sec2_p p {
+        display: flex;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .sec2_div2 {
+        margin: 5px auto;
+        min-height: 240px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 48%;
+    }
+
+    .sec3L_left p {
+        font-size: 13px;
+        width: 60%;
+        margin: 10px auto;
+    }
+
+    .sec3_left h6 {
+
+        font-size: 18px;
+        margin: 5px 0;
+
+    }
+
+    .sec3_left {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-size: cover;
+        margin: 5px auto;
+        width: 45%;
+        min-height: 180px;
+    }
+
+    .sec3R_main p {
+        width: 75%;
+        text-align: center;
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        position: absolute;
+        top: 100%;
+        left: 200px;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        top: 100%;
+        left: 260px;
+    }
+
+    .sec3_right {
+        width: 48%;
+        margin: 8px auto;
+    }
+
+    .sec4_right h1 {
+        width: 60%;
+        font-size: 32px;
+        margin: 5px auto;
+    }
+
+    .sec4_right p {
+        font-size: 13px;
+        width: 60%;
+        margin: 7px auto;
+    }
+
+    .section6 {
+        min-height: 220px;
+
+    }
+
+    .s6_left h1 {
+        font-size: 26px;
+        font-family: var(--normal-font);
+        font-weight: bold;
+        margin: 0px 0 20px 0;
+        text-align: center;
+    }
+
+    .footer {
+        min-height: 480px;
+        position: relative;
+    }
+
+    .f_text1 h1 {
+        font-weight: 900;
+        font-size: 20px;
+    }
+
+    .f_text1 {
+        width: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    .fd2_text {
+        width: 50%;
+        margin: 5px 0 15px 0px;
+    }
+
+    .fd2_text {
+        display: flex;
+        width: 45%;
+        margin: 10px auto;
+    }
+
+    .fd2_text p {
+        width: 95%;
+        font-size: 11px;
+        margin: 0px 0 5px 1px;
+    }
+
+    .footer_div2 {
+        flex-wrap: wrap;
+        display: flex;
+        margin: 29px 0px 0px 0;
+    }
+
+    .footer_botm {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .foot_text1 p {
+        font-size: 11px;
+        margin: 0 auto;
+    }
+
+    .foot_text2 p {
+        margin: 0 auto;
+        font-size: 11px;
+    }
+
+    .variable-width .slick-slide img {
+        padding: 0 1rem;
+        margin: 0 5px;
+        width: 80%;
+    }
+
+    .top_head_iconf a img {
+        width: 40%;
+    }
+}
+
+
+/* 559PX */
+@media screen and (max-width:559px) {
+    .innerSingleBanner h6 {
+        font-size: 13px;
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 22px;
+        width: 80%;
+    }
+
+    .innerSingleBanner p {
+        font-size: 12px;
+    }
+
+    .homeBanner .slide_icon {
+        width: 32px;
+        height: 32px;
+    }
+
+    .singleBanner {
+        min-height: 380px !important;
+    }
+
+    .sec2_p p {
+        font-size: 12px;
+        margin: 5px auto;
+    }
+
+    .sec3L_left p {
+        font-size: 12px;
+        width: 80%;
+        text-align: center;
+    }
+
+    .sec3_left h6 {
+        font-size: 17px;
+        margin: 5px 0;
+    }
+
+    .s2_before {
+        top: 48%;
+        left: 65%;
+    }
+
+    .sec3R_main p {
+        width: 80%;
+        text-align: center;
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        top: 100%;
+        left: 160px;
+    }
+
+    prev.pull-left.slick-arrow {
+        top: 100%;
+        left: 215px;
+    }
+
+    .sec4_right h1 {
+        width: 70%;
+        font-size: 32px;
+    }
+
+    .sec4_right p {
+        width: 65%;
+        text-align: center;
+    }
+
+    .icon_text h6 {
+        font-size: 13px;
+    }
+
+    .icon_text p {
+        font-size: 11px;
+    }
+
+    .icon_border {
+        width: 20px;
+        height: 20px;
+    }
+
+    .fd2_text p {
+        width: 100%;
+        margin: 0px 0 5px 1px;
+    }
+
+    .fd2_text_img {
+        top: 60%;
+        left: 55%;
+    }
+
+}
+
+/* 559PX */
+@media screen and (max-width:479px) {
+    a.navbar-brand h1 {
+        font-size: 30px;
+        color: white;
+        margin: 0;
+    }
+
+    .innerSingleBanner h6 {
+        font-size: 12px;
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 18px;
+        width: 90%;
+    }
+
+    .innerSingleBanner p {
+        text-align: left;
+        width: 80%;
+        font-size: 11px;
+    }
+
+    .homeBanner .slick-prev.pull-left.slick-arrow {
+        top: 35%;
+        left: 83%;
+    }
+
+    .homeBanner .slick-next.pull-right.slick-arrow {
+        top: 35%;
+        left: 0;
+    }
+
+    .sec2_p p {
+        width: 90%;
+        font-size: 12px;
+        margin: 5px auto;
+    }
+
+    .sec2_div2 {
+        margin: 5px auto;
+        min-height: 170px;
+        padding: 0;
+    }
+
+    .sec2_div2 h6 {
+        font-size: 12px;
+        width: 75%;
+    }
+
+    .sec3L_left p {
+        font-size: 12px;
+        width: 90%;
+    }
+
+    .sec3_left h6 {
+        font-size: 16px;
+
+    }
+
+    .sec3_left {
+        width: 48%;
+    }
+
+    .sec3R_main p {
+        width: 90%;
+        text-align: center;
+    }
+
+    .sec3_right {
+        width: 45%;
+        margin: 8px auto;
+    }
+
+    .text h6 {
+        font-size: 15px;
+    }
+
+    .sec3R_main p {
+        width: 75%;
+        text-align: center;
+    }
+
+    .text a {
+        font-size: 13px;
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        top: 100%;
+        left: 110px;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        top: 100%;
+        left: 170px;
+    }
+
+    .sec4_right h1 {
+        width: 90%;
+        font-size: 30px;
+        margin: 0 auto;
+    }
+
+    .sec4_right p {
+        width: 80%;
+        text-align: center;
+    }
+
+    .footer {
+        min-height: 550px;
+        position: relative;
+    }
+
+    .icon_text p {
+        font-size: 9px;
+    }
+
+    /* .fd2_text div {
+        width: 75%;
+    } */
+
+    .fd2_text_img {
+        top: 70%;
+        left: 75%;
+    }
+
+    .foot_text1 p {
+        font-size: 8px;
+        margin: 0 auto;
+    }
+
+    .foot_text2 p {
+        margin: 0 auto;
+        font-size: 8px;
+    }
+
+    .fd2_text h1 {
+        font-size: 15px;
+    }
+
+    .icon_text h6 {
+        font-size: 12px;
+    }
+
+    .bg_img p {
+        font-size: 11px;
+    }
+
+    .s7_right_divOne_left h6 {
+        font-size: 14px;
+    }
+
+    .s7_right_divOne_right {
+        width: 23%;
+    }
+
+    .s4_before {
+        top: 40%;
+        left: 65%;
+    }
+
+    .variable-width .slick-slide img {
+        padding: 0 1rem;
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .sec3_right {
+        width: 95%;
+        margin: 8px auto;
+    }
+    .fd2_text_img a img {
+        width: 35%;
+    }.fd2_text input[type="text"] {
+        font-size: 11px;
+        width: 155px;
+        height: 40px;
+    }
+  
+}
+
+/* 389PX */
+@media screen and (max-width:389px) {
+
+    a.navbar-brand h1 {
+        font-size: 24px;
+
+    }
+
+    h6 {
+        width: 100%;
+        font-size: 11px;
+    }
+
+    .innerSingleBanner h1 {
+        font-size: 16px;
+        width: 95%;
+        margin: 0;
+    }
+
+    .innerSingleBanner p {
+        width: 90%;
+        font-size: 11px;
+        margin: 3px 0;
+    }
+
+    .s_btn button {
+        font-size: 15px;
+        width: 150px;
+        height: 45px;
+    }
+
+    .homeBanner .slick-next.pull-right.slick-arrow {
+        top: 35%;
+        right: 0;
+    }
+
+    .homeBanner .slide_icon {
+        width: 25px;
+        height: 25px;
+    }
+
+    .innerSingleBanner h6 {
+        width: 100%;
+        font-size: 11px;
+    }
+
+    .sec2_h1 h1 {
+        font-size: 42px;
+    }
+
+    .sec2_p p {
+        width: 90%;
+        font-size: 11px;
+    }
+
+    .sec2_div2 h6 {
+        font-size: 11px;
+        width: 90%;
+    }
+
+    .sec2_div2 {
+
+        min-height: 140px;
+
+    }
+
+    .sec2_btn button {
+        width: 170px;
+        height: 50px;
+    }
+
+    .sec3L_left p {
+        font-size: 11px;
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .sec3_left {
+        width: 100%;
+    }
+
+    .s2_before {
+        top: 45%;
+        left: 73%;
+    }
+
+    .sec3R_main p {
+        font-size: 11px;
+        width: 100%;
+        text-align: center;
+    }
+
+    button.slick-next.pull-right.slick-arrow {
+        top: 100%;
+        left: 60px;
+    }
+
+    button.slick-prev.pull-left.slick-arrow {
+        top: 100%;
+        left: 115px;
+    }
+
+    .sec4_right h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 26px;
+    }
+
+    .sec4_right p {
+        font-size: 11px;
+        width: 90%;
+    }
+
+    .s7_right_divOne_right {
+        width: 18%;
+    }
+
+    .s7_right_divOne_left h6 {
+        font-size: 11px;
+    }
+
+    .bg_img {
+        padding: 1rem;
+    }
+
+    .s7_right_main .slick-list.draggable {
+        min-height: 420px;
+    }
+
+    .slick-list.draggable {
+        min-height: 0;
+    }
+
+    .footer {
+        min-height: 630px;
+        position: relative;
+    }
+
+    .footer_bg {
+        bottom: 83%;
+    }
+
+    .f_text1 h1 {
+
+        font-size: 15px;
+    }
+
+    .icon_text p {
+        font-size: 8px;
+    }
+
+    .fd2_text h1 {
+        font-size: 11px;
+    }
+
+    .fd2_text {
+        width: 50%;
+    }
+
+    .fd2_text input[type="text"] {
+        font-size: 9px;
+        width: 115px;
+        height: 40px;
+    }
+
+
+
+    .fd2_text a img {
+        width: 55%;
+    }
+
+    .foot_text2 p {
+        margin: 0 auto;
+        font-size: 6px;
+    }
+
+    .foot_text1 p {
+        font-size: 6px;
+        margin: 0 auto;
+    }
+
+    .footer {
+        min-height: 560px;
+        position: relative;
+    }
+
+    .top_head_iconf a img {
+        width: 70%;
+    }
+
+    .fd2_text a {
+        font-size: 13px;
+    }
+
+    .top_head_iconf a img {
+        width: 40%;
+    }
+
+    .variable-width .slick-slide img {
+        padding: 0 1rem;
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .fd2_text a img {
+        width: 25%;
+    }
+
+    .fd2_text_img {
+    top: 72%;
+    left: 60%;
+
+    }
+    p {
+        text-align: center;
+        width: 94%;
+        margin: 0 auto;
+        margin: 0px 10 0 0;
+    }
+}
